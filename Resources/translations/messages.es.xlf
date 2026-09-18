@@ -2,6 +2,10 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file date="2021-12-17T20:00:00Z" source-language="es" target-language="es" datatype="plaintext" original="none">
     <body>
+      <trans-unit id="ArEmail1" resname="email.submitted.message">
+        <source>email.submitted.message</source>
+        <target>submitted a timesheet for approval: </target>
+      </trans-unit>
       <trans-unit id="M9qu6_Q" resname="title.approval_bundle">
         <source>title.approval_bundle</source>
         <target>Aprobación de horas</target>
