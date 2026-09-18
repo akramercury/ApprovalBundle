@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- new translation: Arabic
+- fix: translate hardcoded sentence in submit-for-approval email
+
 ## 2.4
 
 - new translation: Frensh
